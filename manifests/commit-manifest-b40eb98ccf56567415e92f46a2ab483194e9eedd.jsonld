@@ -1,0 +1,44 @@
+{
+  "@context": "https://repolex.ai/ontology/jsonld-context/repolex-context.jsonld",
+  "@id": "https://repolex.ai/r/asottile/markdown-code-blocks/commit/b40eb98ccf56567415e92f46a2ab483194e9eedd",
+  "@type": "git:Commit",
+  "git:hexsha": "b40eb98ccf56567415e92f46a2ab483194e9eedd",
+  "repolex:repository": {
+    "@id": "https://repolex.ai/r/asottile/markdown-code-blocks"
+  },
+  "repolex:graphFile": [
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "filetree",
+      "repolex:graphFilePath": "filetree/b40eb98ccf56567415e92f46a2ab483194e9eedd.nq.gz",
+      "repolex:graphFileSize": 1663
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "commit",
+      "repolex:graphFilePath": "commit/commit.nq.gz",
+      "repolex:graphFileSize": 171599
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "branch",
+      "repolex:graphFilePath": "branch/branch.nq.gz",
+      "repolex:graphFileSize": 497
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "tag",
+      "repolex:graphFilePath": "tag/tag.nq.gz",
+      "repolex:graphFileSize": 668
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "pr",
+      "repolex:graphFilePath": "pr/pr.nq.gz",
+      "repolex:graphFileSize": 41219
+    }
+  ],
+  "repolex:parseStatus": "metadata_complete",
+  "repolex:parsedAt": "2026-10-20T11:29:10.290645+00:00",
+  "repolex:parserVersion": "0.1.10"
+}
