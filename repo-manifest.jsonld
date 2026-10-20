@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/asottile/markdown-code-blocks/commit/b40eb98ccf56567415e92f46a2ab483194e9eedd",
       "git:hexsha": "b40eb98ccf56567415e92f46a2ab483194e9eedd",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/asottile/markdown-code-blocks/commit/8bcd6f1c6122329c56ce55b3a919cce9432f2d49",
